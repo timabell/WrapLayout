@@ -1,3 +1,4 @@
+package uk.co.timwise.wraplayout;
 import java.awt.*;
 import javax.swing.JScrollPane;
 import javax.swing.SwingUtilities;
